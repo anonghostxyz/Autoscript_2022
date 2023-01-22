@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/anonghostxyz/Autoscript_2022/main/Running.png" />
+<img src="https://raw.githubusercontent.com/anonghostxyz/Autoscript_2022/main/Run.png" />
 </p>
 
